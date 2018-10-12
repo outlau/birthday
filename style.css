@@ -1,0 +1,20 @@
+.circle {
+    vertical-align: center;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.circle-parent {
+    text-align: center;
+}
+
+.circle-done {
+    background-color: green;
+
+}
+
+.circle-notdone {
+    background-color: red;
+}
