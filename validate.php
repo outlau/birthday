@@ -1,9 +1,9 @@
 <?php
     //header('Content-Type: text/plain');
 
-    echo "HI";
+
     //echo file_get_contents('array.php');
-/*
+
     $get_data = json_decode($_POST['send']);//json_decode($_POST['pw']); // Don't forget the encoding
     
 
@@ -25,9 +25,9 @@
     else {	
         $data['success'] = false;	
     }
-    */
+
 
     //echo json_encode($data);
-    */
+    
     
 ?>
